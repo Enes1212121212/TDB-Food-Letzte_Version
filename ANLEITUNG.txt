@@ -1,0 +1,17 @@
+TDB Food | Meat & More – Webseite (Version ohne Unterordner)
+=============================================================
+
+In dieser Version liegen ALLE Dateien in einem einzigen Ordner.
+Es gibt keine Unterordner – alles kann so, wie es ist, hochgeladen werden.
+
+HOCHLADEN (GitHub oder Webspace)
+1. ZIP entpacken.
+2. ALLE Dateien auf einmal hochladen und die alten Dateien überschreiben.
+   Die Dateinamen nicht ändern und in den Dateien nichts von Hand anpassen.
+3. Die Datei "index.html" ist die Startseite.
+4. Danach im Browser Strg + F5 drücken, damit keine alte Version angezeigt wird.
+
+WICHTIG
+- Alte Dateien, die von Hand bearbeitet wurden (z. B. index.html), durch die
+  Dateien aus diesem ZIP ersetzen.
+- Keine Cookies, kein Tracking, keine Google Fonts.
